@@ -7,4 +7,4 @@ Technologies:  HTML, CSS and JavaScript.!
 
 Projects:
 
-[0x00-python-hello_world](https://github.com/SilvanaJ90/holbertonschool-higher_level_programming/tree/master/0x00-python-hello_world).
+[0x00_first_steps_in_pProgramming](https://github.com/SilvanaJ90/alura_programmer_beginner/tree/main/0x00_first_steps_in_pProgramming)
