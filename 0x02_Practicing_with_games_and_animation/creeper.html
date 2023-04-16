@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <canvas width="600" height="400">
+        
+    </canvas>
+    <script>
+        var pantalla = document.querySelector("canvas");
+        var pincel = pantalla.getContext("2d");
+
+        pincel.fillStyle = "green";
+        pincel.fillRect(0,0,600,400);
+
+        pincel.fillStyle = "darkgreen"; //propiedad
+        pincel.fillRect(170,70,90,90); //función
+
+        pincel.fillStyle = "darkgreen"; //propiedad
+        pincel.fillRect(330,70,90,90); //función
+
+        pincel.fillStyle = "darkgreen"; //propiedad
+        pincel.fillRect(260,160,70,100); //función
+
+        pincel.fillStyle = "darkgreen"; //propiedad
+        pincel.fillRect(330,260,40,110); //función
+
+        pincel.fillStyle = "darkgreen"; //propiedad
+        pincel.fillRect(220,260,40,110); //función
+
+
+    </script>
+</body>
+</html>
