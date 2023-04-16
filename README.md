@@ -10,3 +10,6 @@ Projects:
 [0x00_first_steps_in_programming](https://github.com/SilvanaJ90/alura_programmer_beginner/tree/main/0x00_first_steps_in_programming).
 
 [0x01_programming_logic_basic_concepts](https://github.com/SilvanaJ90/alura_programmer_beginner/tree/main/0x01_programming_logic_basic_concepts)
+
+[0x02_Practicing_with_games_and_animation](https://github.com/SilvanaJ90/alura_programmer_beginner/tree/main/0x02_Practicing_with_games_and_animation
+)
