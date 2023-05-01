@@ -93,8 +93,9 @@ footer {
 
 }
 
-footer p {
+.copyright {
     color: #BBBBBB;
-    
+    font-size: 13px;
+    margin: 20px;
 }
 
